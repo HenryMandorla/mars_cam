@@ -1,0 +1,2 @@
+module MarsPhotosHelper
+end

@@ -1,0 +1,2 @@
+class MarsPhoto < ApplicationRecord
+end
